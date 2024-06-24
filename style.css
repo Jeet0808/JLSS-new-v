@@ -193,7 +193,7 @@ color: rgb(3, 11, 36);
     from{
       left: 180px;
       background-color:rgb(3, 11, 36);
-       font-size: small;
+       font-size: x-small;
     }
     to{
       left: 90px;
